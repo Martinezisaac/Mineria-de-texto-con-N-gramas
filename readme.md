@@ -30,6 +30,6 @@ Para ejecutar el proyecto, es necesario tener instalado Jupyter (es posible ejec
 - **matplotlib y seaborn**: Para la visualización de los resultados.
 
 ## Disponibilidad
-Este proyecto es posible ejecutarlo en la nube mediante Google Colab, es posible ejecutar este proyecto accediento al archivo en línea:
+Este proyecto se encuentra disponible en Google Colab, es posible ejecutar este proyecto accediento al archivo en línea:
 https://drive.google.com/file/d/1XlVwrtuo-8UauJRRAVfqOzKV2I7rNBCA/view?usp=sharing
 
