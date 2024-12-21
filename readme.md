@@ -1,4 +1,4 @@
-# Análisis de Texto en Netflix con NLP
+# Minería de texto con N-Gramas
 Este proyecto contiene un análisis de datos realizado sobre el conjunto de datos de Netflix, utilizando técnicas de procesamiento de lenguaje natural (NLP) para extraer información de las descripciones de películas y series del set de datos. El proyecto aborda el análisis de texto, la lematización, la eliminación de stopwords y la vectorización de datos, con el objetivo de explorar las palabras más frecuentes y los patrones dentro de dicho set de Netflix.
 <br> <br>
 
